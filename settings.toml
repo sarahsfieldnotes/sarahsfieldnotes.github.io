@@ -121,7 +121,7 @@ outlet = "Alaska Community Action on Toxics"
 title = "Sivuqaq’s Community-Driven Science: Documenting Contamination in the Arctic"
 description = "Due to a combination of global distillation processes and military contamination, the Yupik people of Sivuqaq experience disproportionately high exposure to persistent organic pollutants (POPs) and other chemicals — resulting in dramatic health disparities."
 url = "https://www.healthandenvironment.org/latest-research/blog/sivuqaqs-community-driven-science-documenting-contamination-in-the-arctic"
-image = "media/work/drought.jpg"
+image = "sivuqaq.png"
 date = "August 2023"
 category = "Journalism"
 outlet = "Collaborative for Health & Environment"
@@ -190,7 +190,7 @@ category = "Multimedia"
 
 [colors]
 accent = "#FF0000"       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
-background = "#FEFFE5"   # e.g. "#fffdf5"
+background = "#FFF2F2"   # e.g. "#fffdf5"
 text = "#0A2100"         # e.g. "#222222"
 
 [fonts]
