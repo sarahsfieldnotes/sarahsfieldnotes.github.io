@@ -127,6 +127,24 @@ outlet = "Collaborative for Health & Environment"
 # slideshow. Write captions after the | symbol (optional).
 
 [[work]]
+title = "EPA Toxics Release Inventory Ranks Alaska's Red Dog Mine as Top Polluter in the Country"
+description = """
+EPA’s 2023 Toxics Release Inventory once again shows Alaskan polluters have put Alaska towards the top of the national list (ranked ninth) for amounts of toxic contaminants released into our air, water, and lands. Alaska’s top five polluters are all metal mining facilities.
+The chemicals include zinc, lead, arsenic, and chromium. These toxic releases threaten drinking water, fish and wildlife habitats, and disproportionately harm the health of Indigenous communities.
+“This report sheds light on the polluting mining industry,” said Jasmine Jemewouk, ACAT’s Water Quality and Community Health Protection Coordinator. “It’s up to the Alaska public to hold them accountable for reducing and eliminating toxic releases that are harmful to human health and the environment.
+"""
+date = "November 2024"
+category = "Multimedia"
+photos = [
+  "media/mine1.jpg",
+  "media/mine2.jpg",
+  "media/mine3.jpg",
+  "media/mine4.jpg",
+  "media/mine3.jpg",
+]
+
+
+[[work]]
 title = "Sivuqaq’s Community-Driven Science: Documenting Contamination in the Arctic"
 description = "Situated in the frigid Bering Sea between Alaska and Russia is the island of Sivuqaq, also known as St. Lawrence Island. Due to a combination of global distillation processes and military contamination, the Yupik people of Sivuqaq experience disproportionately high exposure to persistent organic pollutants (POPs) and other chemicals, resulting in dramatic health disparities among residents. An environmental health nonprofit, Alaska Community Action on Toxics, is conducting ongoing community-based research with the tribes of Sivuqaq to document these exposures and health outcomes."
 date = "August 2024"
@@ -137,21 +155,7 @@ photos = [
   "media/sivuqaq.png | Community health researcher Utu Iworrigan prepares to set up a stickleback trap, while the ACAT team sets up a passive sampler to test mercury concentrations in the air.",
 ]
 
-[[work]]
-title = "EPA Toxics Release Inventory Ranks Alaska's Red Dog Mine as Top Polluter in the Country"
-description = """
-EPA’s 2023 Toxics Release Inventory once again shows Alaskan polluters have put Alaska towards the top of the national list (ranked ninth) for amounts of toxic contaminants released into our air, water, and lands. Alaska’s top five polluters are all metal mining facilities.
-The chemicals include zinc, lead, arsenic, and chromium. These toxic releases threaten drinking water, fish and wildlife habitats, and disproportionately harm the health of Indigenous communities.
-“This report sheds light on the polluting mining industry,” said Jasmine Jemewouk, ACAT’s Water Quality and Community Health Protection Coordinator. “It’s up to the Alaska public to hold them accountable for reducing and eliminating toxic releases that are harmful to human health and the environment.
-"""
 
-date = "November 2024"
-category = "Multimedia"
-photos = [
-  "media/sivuqaq2.png | Dr. Sam Byrne shows an ACAT intern how to set up an air quality monitoring device.",
-  "media/sivuqaq3.png | ACAT community health researcher Utu Iworrigan walks along the Suqi River to scout for a spot for a stickleback trap.",
-  "media/sivuqaq.png | Community health researcher Utu Iworrigan prepares to set up a stickleback trap, while the ACAT team sets up a passive sampler to test mercury concentrations in the air.",
-]
 
 
 # ── An audio story stored on your site ──────────────────────
