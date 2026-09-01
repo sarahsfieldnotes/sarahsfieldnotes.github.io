@@ -112,9 +112,9 @@ footer = ""
 title = "EPA's Toxics Release Inventory Ranks Red Dog Mine as Top Polluter in the Country"
 description = "Alaska continues to rank among the US’s top polluters, with 897.8 million pounds of chemicals disposed of onto the land – meaning the state of Alaska was responsible for more than 40 percent of the nation’s total chemical releases."
 url = "https://www.akaction.org/news/archive-newsroom/epa-releases-updated-2023-data-for-the-toxics-release-inventory/"
-image = "media/work/bike-lanes.jpg"
+image = "alaska mine"
 date = "November 2024"
-category = "Journalism"
+category = "Work"
 outlet = "Alaska Community Action on Toxics"
 
 [[work]]
@@ -123,7 +123,7 @@ description = "Due to a combination of global distillation processes and militar
 url = "https://www.healthandenvironment.org/latest-research/blog/sivuqaqs-community-driven-science-documenting-contamination-in-the-arctic"
 image = "sivuqaq.png"
 date = "August 2023"
-category = "Journalism"
+category = "Work"
 outlet = "Collaborative for Health & Environment"
 
 
@@ -132,12 +132,12 @@ outlet = "Collaborative for Health & Environment"
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
 
-[[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
-category = "Photojournalism"
-photos = [
+# [[work]]
+# title = "Saturday at the farmers market"
+# description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
+# date = "February 2026"
+# category = "Photojournalism"
+# photos = [
   "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
   "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
   "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
@@ -150,24 +150,24 @@ photos = [
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
-[[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-date = "December 2025"
-category = "Multimedia"
+# [[work]]
+# title = "One small step: the sound that stopped the world"
+# description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
+# audio = "media/audio/one-small-step.mp3"
+# date = "December 2025"
+# category = "Multimedia"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
 # Upload your video to YouTube or Vimeo, then paste its link
 # here. Clicking the work plays it in a pop-up.
 
-[[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
-category = "Multimedia"
+# [[work]]
+# Title = "Video explainer: why we're going back to the Moon"
+# description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
+# video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
+# date = "September 2025"
+# category = "Multimedia"
 
 
 # ============================================================
@@ -180,8 +180,8 @@ category = "Multimedia"
 
 [colors]
 accent = "#FF0000"       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
-background = "#FFF2F2"   # e.g. "#fffdf5"
-text = "#0A2100"         # e.g. "#222222"
+background = "#FFE7E3"   # e.g. "#fffdf5"
+text = "#02362B"         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
