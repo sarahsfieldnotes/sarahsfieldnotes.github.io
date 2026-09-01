@@ -76,14 +76,8 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 bio = """
 I'm a master’s student pursuing concurrent degrees in public health and multimedia 
 journalism at UC Berkeley. 
-I work at the intersection of human and planetary health and am interested in using 
-science communication to advance community-led environmental justice.
-
-My reporting covers housing, transportation, and food access in the East
-Bay. I write for Richmond Confidential and spent last summer as a
-reporting intern with the SF Chronicle, where I learned that the best
-stories usually start at a bus stop, a taquería or a city council
-meeting that runs past midnight.
+I work at the intersection of human and planetary health, focusing on using science communication to advance community-led environmental justice.
+My current reporting for Richmond Confidential covers health and environment across the East Bay. 
 
 """
 
@@ -109,8 +103,8 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "EPA's Toxics Release Inventory Ranks Red Dog Mine as Top Polluter in the Country"
-description = "Alaska continues to rank among the US’s top polluters, with 897.8 million pounds of chemicals disposed of onto the land – meaning the state of Alaska was responsible for more than 40 percent of the nation’s total chemical releases."
+title = "EPA Toxics Release Inventory Ranks Alaska's Red Dog Mine as Top Polluter in the Country"
+description = "In 2023, Alaska's mines released 897.8 million pounds of chemicals onto the land – meaning the state was responsible for more than 40 percent of the nation’s total chemical releases."
 url = "https://www.akaction.org/news/archive-newsroom/epa-releases-updated-2023-data-for-the-toxics-release-inventory/"
 image = "mine.jpeg"
 date = "November 2024"
@@ -136,12 +130,29 @@ outlet = "Collaborative for Health & Environment"
 title = "Sivuqaq’s Community-Driven Science: Documenting Contamination in the Arctic"
 description = "Situated in the frigid Bering Sea between Alaska and Russia is the island of Sivuqaq, also known as St. Lawrence Island. Due to a combination of global distillation processes and military contamination, the Yupik people of Sivuqaq experience disproportionately high exposure to persistent organic pollutants (POPs) and other chemicals, resulting in dramatic health disparities among residents. An environmental health nonprofit, Alaska Community Action on Toxics, is conducting ongoing community-based research with the tribes of Sivuqaq to document these exposures and health outcomes."
 date = "August 2024"
-category = "Photojournalism"
+category = "Multimedia"
 photos = [
   "media/sivuqaq2.png | Dr. Sam Byrne shows an ACAT intern how to set up an air quality monitoring device.",
   "media/sivuqaq3.png | ACAT community health researcher Utu Iworrigan walks along the Suqi River to scout for a spot for a stickleback trap.",
   "media/sivuqaq.png | Community health researcher Utu Iworrigan prepares to set up a stickleback trap, while the ACAT team sets up a passive sampler to test mercury concentrations in the air.",
 ]
+
+[[work]]
+title = "EPA Toxics Release Inventory Ranks Alaska's Red Dog Mine as Top Polluter in the Country"
+description = """
+EPA’s 2023 Toxics Release Inventory once again shows Alaskan polluters have put Alaska towards the top of the national list (ranked ninth) for amounts of toxic contaminants released into our air, water, and lands. Alaska’s top five polluters are all metal mining facilities.
+The chemicals include zinc, lead, arsenic, and chromium. These toxic releases threaten drinking water, fish and wildlife habitats, and disproportionately harm the health of Indigenous communities.
+“This report sheds light on the polluting mining industry,” said Jasmine Jemewouk, ACAT’s Water Quality and Community Health Protection Coordinator. “It’s up to the Alaska public to hold them accountable for reducing and eliminating toxic releases that are harmful to human health and the environment.
+"""
+
+date = "November 2024"
+category = "Multimedia"
+photos = [
+  "media/sivuqaq2.png | Dr. Sam Byrne shows an ACAT intern how to set up an air quality monitoring device.",
+  "media/sivuqaq3.png | ACAT community health researcher Utu Iworrigan walks along the Suqi River to scout for a spot for a stickleback trap.",
+  "media/sivuqaq.png | Community health researcher Utu Iworrigan prepares to set up a stickleback trap, while the ACAT team sets up a passive sampler to test mercury concentrations in the air.",
+]
+
 
 # ── An audio story stored on your site ──────────────────────
 #
