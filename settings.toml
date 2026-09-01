@@ -109,31 +109,23 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
+title = "EPA Releases Updated 2023 Data for the Toxics Release Inventory"
+description = "Red Dog Mine Ranked as Top Polluter in the Country"
+url = "https://www.akaction.org/news/archive-newsroom/epa-releases-updated-2023-data-for-the-toxics-release-inventory/"
 image = "media/work/bike-lanes.jpg"
-date = "March 2026"
+date = "November 2024"
 category = "Journalism"
-outlet = "Berkeleyside"
+outlet = "Alaska Community Action on Toxics"
 
 [[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
+title = "Sivuqaq’s Community-Driven Science: Documenting Contamination in the Arctic"
+description = "Due to a combination of global distillation processes and military contamination, the Yupik people of Sivuqaq experience disproportionately high exposure to persistent organic pollutants (POPs) and other chemicals — resulting in dramatic health disparities."
+url = "https://www.healthandenvironment.org/latest-research/blog/sivuqaqs-community-driven-science-documenting-contamination-in-the-arctic"
 image = "media/work/drought.jpg"
-date = "January 2026"
+date = "August 2023"
 category = "Journalism"
-outlet = "The San Francisco Chronicle"
+outlet = "Collaborative for Health & Environment"
 
-[[work]]
-title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/food-bank.jpg"
-date = "November 2025"
-category = "Journalism"
-outlet = "The Daily Californian"
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
@@ -197,9 +189,9 @@ category = "Multimedia"
 # ============================================================
 
 [colors]
-accent = ""       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
-background = ""   # e.g. "#fffdf5"
-text = ""         # e.g. "#222222"
+accent = "#FF0000"       # e.g. "#c9401a"  (find codes at htmlcolorcodes.com)
+background = "#FEFFE5"   # e.g. "#fffdf5"
+text = "#0A2100"         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
