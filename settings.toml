@@ -109,8 +109,8 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "EPA Releases Updated 2023 Data for the Toxics Release Inventory"
-description = "Red Dog Mine Ranked as Top Polluter in the Country"
+title = "EPA's Toxics Release Inventory Ranks Red Dog Mine as Top Polluter in the Country"
+description = "Alaska continues to rank among the US’s top polluters, with 897.8 million pounds of chemicals disposed of onto the land – meaning the state of Alaska was responsible for more than 40 percent of the nation’s total chemical releases."
 url = "https://www.akaction.org/news/archive-newsroom/epa-releases-updated-2023-data-for-the-toxics-release-inventory/"
 image = "media/work/bike-lanes.jpg"
 date = "November 2024"
@@ -126,15 +126,6 @@ date = "August 2023"
 category = "Journalism"
 outlet = "Collaborative for Health & Environment"
 
-
-# This one has no image on purpose — the site still handles it gracefully.
-[[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
-category = "Journalism"
-outlet = "Richmond Confidential"
 
 # ── A photo essay stored right here on your site ────────────
 #
@@ -163,7 +154,6 @@ photos = [
 title = "One small step: the sound that stopped the world"
 description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
 audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
 date = "December 2025"
 category = "Multimedia"
 
