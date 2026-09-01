@@ -203,5 +203,5 @@ text = ""         # e.g. "#222222"
 
 [fonts]
 # Any font from fonts.google.com — just write its name.
-heading = ""      # e.g. "Playfair Display"
+heading = "Playfair"      # e.g. "Playfair Display"
 body = ""         # e.g. "Lora"
