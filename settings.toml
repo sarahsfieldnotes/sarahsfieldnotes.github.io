@@ -112,7 +112,7 @@ footer = ""
 title = "EPA's Toxics Release Inventory Ranks Red Dog Mine as Top Polluter in the Country"
 description = "Alaska continues to rank among the US’s top polluters, with 897.8 million pounds of chemicals disposed of onto the land – meaning the state of Alaska was responsible for more than 40 percent of the nation’s total chemical releases."
 url = "https://www.akaction.org/news/archive-newsroom/epa-releases-updated-2023-data-for-the-toxics-release-inventory/"
-image = "alaska mine"
+image = "mine.jpeg"
 date = "November 2024"
 category = "Work"
 outlet = "Alaska Community Action on Toxics"
@@ -132,17 +132,19 @@ outlet = "Collaborative for Health & Environment"
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
 
-# [[work]]
-# title = "Saturday at the farmers market"
-# description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-# date = "February 2026"
-# category = "Photojournalism"
-# photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
+[[work]]
+title = "Sivuqaq’s Community-Driven Science: Documenting Contamination in the Arctic"
+description = "Situated in the frigid Bering Sea between Alaska and Russia is the island of Sivuqaq, also known as St. Lawrence Island. Due to 
+a combination of global distillation processes and military contamination, the Yupik people of Sivuqaq experience disproportionately high exposure 
+to persistent organic pollutants (POPs) and other chemicals, resulting in dramatic health disparities among residents. 
+An environmental health nonprofit, Alaska Community Action on Toxics, is conducting ongoing community-based research with the tribes of Sivuqaq to document these exposures and health outcomes. 
+date = "August 2024"
+category = "Photojournalism"
+photos = [
+  "media/sivuqaq2.png | Dr. Sam Byrne shows an ACAT intern how to set up an air quality monitoring device.",
+  "media/sivuqaq3.png | ACAT community health researcher Utu Iworrigan walks along the Suqi River to scout for a spot for a stickleback trap.",
+  "media/sivuqaq.png | Community health researcher Utu Iworrigan prepares to set up a stickleback trap, while the ACAT team sets up a passive sampler to test mercury concentrations in the air.",
+
 ]
 
 # ── An audio story stored on your site ──────────────────────
